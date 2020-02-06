@@ -1,4 +1,4 @@
- # PanelAdmin RoMrx :D
+RoMrx :D
  # Admin panel Finder 
  
 git clone https://github.com/RoMrx/PanelAdmin
